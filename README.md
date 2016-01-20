@@ -1,1 +1,5 @@
 # snusjs
+
+Example Usage```javascript
+
+```
