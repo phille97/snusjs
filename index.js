@@ -1,6 +1,5 @@
 
-var Snus = {
-
+module.exports = {
     sentences: [
          'SNUS',
          'Snusar du?',
@@ -24,19 +23,13 @@ var Snus = {
         ];
     },
 
-    do: function() {
+    taensnus: function() {
         console.log(this.getRandomSentence());
     },
 
-    say: Snus.do,
-    sayit: Snus.do,
-    snusa: Snus.do,
-    taensnus: Snus.do,
-
     nujävlar: function() {
         while(true) {
-            this.sayit();
+            this.taensnus();
         }
     }
-
-}
+};
