@@ -38,7 +38,6 @@ module.exports = {
          'Du letar men hittar aldrig svaret!',
          'Torktummlaren tömmer inte sig själv!',
          'Dock så gör tvättmaskinen det ;)',
-         `Det är den ${(new Date()).getDate()} denna månaden`,
          'Varför äter katten smör från diskbänken?',
          'Abraham levde det goda livet',
          'Sverker gillar inte när man bara håller på och slevar doppelmannen',
