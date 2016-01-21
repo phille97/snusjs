@@ -43,7 +43,7 @@ module.exports = {
          'Sverker gillar inte när man bara håller på och slevar doppelmannen',
          'Dom som går i Slytherin är fags',
          'DLG EKONOMI',
-         'DLG Cider,
+         'DLG Cider',
          'Mörkret tar övermig när farmor Eva spelar flöjt i dagsljus',
          'För varje äpple som faller från ett träd, så förlorar en bebis sin näbb',
          'Mattematik är grunden till en bättre Gås',

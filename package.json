@@ -1,6 +1,6 @@
 {
   "name": "snus",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Sacrifice the snus to Peter",
   "main": "index.js",
   "scripts": {
