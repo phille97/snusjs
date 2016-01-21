@@ -41,7 +41,24 @@ module.exports = {
          `Det är den ${(new Date()).getDate()} denna månaden`,
          'Varför äter katten smör från diskbänken?',
          'Abraham levde det goda livet',
-         'Sverker gillar inte när man bara håller på och slevar doppelmannen'
+         'Sverker gillar inte när man bara håller på och slevar doppelmannen',
+         'Dom som går i Slytherin är fags',
+         'DLG EKONOMI',
+         'DLG Cider,
+         'Mörkret tar övermig när farmor Eva spelar flöjt i dagsljus',
+         'För varje äpple som faller från ett träd, så förlorar en bebis sin näbb',
+         'Mattematik är grunden till en bättre Gås',
+         'Till den som vill testa grejer som de kanske tycker är bra sen',
+         'Nationalencyclopsedin Nationalencyclopsedin Nationalencyclopsedin',
+         'Bara Vara Klara I Vara Som En Vara I Vara',
+         'Var god svara på min frågeställning där Sverker fanns i omloppsbana runt Merkurius',
+         'Dela vår reklamfilm, den må vara dålig, men ack så bra den äro!!!',
+         'Till dagens ära så varo min glasögon stolsryggs måne blå vid din åsyn',
+         'Fredrik äter Semlor till frukost',
+         'Den som tar fast förbrytaren får en torr kanelbulle',
+         '8 * 4 = 12  SÅ DET SÅ',
+         'Mattematiskt inkorrekt domstolsbeslut',
+         'Mattematiskt korrekt glassföretag'
     ],
 
     getRandomSentence: function() {
