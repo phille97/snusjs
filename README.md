@@ -1,5 +1,8 @@
 # snusjs
 
-Example Usage```javascript
+Example Usage
+```javascript
+var snus = require("snus")
 
+snus.taensnus()
 ```
