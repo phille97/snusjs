@@ -1,10 +1,10 @@
 {
   "name": "snus",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Sacrifice the snus to Peter",
-  "main": "index.js",
+  "main": "lib/Snus.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/phille97/snusjs/issues"
   },
-  "homepage": "https://github.com/phille97/snusjs#readme"
+  "homepage": "https://github.com/phille97/snusjs#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
 }
